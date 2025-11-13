@@ -1,4 +1,8 @@
-# AWS EC2 VM Lab Report
+## Watch me do the lab HERE
+https://www.loom.com/share/0c421230e9394dbeb698c7a4f2fd23ea
+
+
+# Active Directory Domain Services Configuration Setup
 
 ## Lab Overview
 This lab demonstrates the setup and configuration of Windows Active Directory Domain Services (AD DS) on an AWS EC2 virtual machine running Windows Server.
